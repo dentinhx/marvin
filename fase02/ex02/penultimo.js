@@ -1,5 +1,5 @@
-function penultimo(palavra) {
-    return palavra.substring(8,9)
+function penultimo(palavra){
+    var p = palavra.length-2;
+    return palavra.substring(p,p+1)
 }
-
 
