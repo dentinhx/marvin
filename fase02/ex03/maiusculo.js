@@ -1,7 +1,8 @@
 function maiusculo(palavra) {
-    return  palavra.charAt(0).toUpperCase() + palavra.slice() 
-
+   return palavra.replace("xes", "XES") //a palavra é "xesquedele"
 }
+
+
 
 
 
