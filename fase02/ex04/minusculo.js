@@ -1,6 +1,7 @@
 function minusculo(palavra){
-    return palavra.charAt(0).toLowerCase() + palavra.slice(1) 
+    return palavra[0].toLowerCase()
 }
+
 
 
 
