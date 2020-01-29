@@ -2,24 +2,26 @@ function vogalOuConsoante(letra){
 if(letra=="A")
 return "Vogal"
 else if (letra =="E")
-return "Volgal"
+return "Vogal"
 else if (letra =="I")
-return "Volgal"
+return "Vogal"
 else if (letra =="O")
-return "Volgal"
+return "Vogal"
 else if (letra =="U")
-return "Volgal"
+return "Vogal"
 else if (letra =="a")
-return "Volgal"
+return "Vogal"
 else if (letra =="e")
-return "Volgal"
+return "Vogal"
 else if (letra =="i")
-return "Volgal"
+return "Vogal"
 else if (letra =="o")
-return "Volgal"
+return "Vlgal"
 else if (letra =="u")
-return "Volgal"
+return "Vogal"
 else 
 return "Consoante"
 }
+
+
 
