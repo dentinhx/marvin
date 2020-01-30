@@ -1,6 +1,6 @@
 function ateZero(n1){
-    var z = 0
-    if (n1 >= z ){
+var z = 0
+if (n1 >= z ){
         while(n1>=z){
                 console.log(z)
                 z++
