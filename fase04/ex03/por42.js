@@ -11,7 +11,8 @@ function por42(num1, num2){
     num1++;
   }
   if(cont === 0 || cont === 1){
-    console.log("NÃ£o encontrado")
+    console.log("Não encontrado")
     return false
   }
 }
+
